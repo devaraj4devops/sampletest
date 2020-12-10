@@ -6,11 +6,11 @@ alone. Comments, such as the text you're reading, are not displayed when
 the Web page is shown. The information between the HEAD and /HEAD tags is 
 not displayed. The information between the BODY and /BODY tags is displayed.-->
 <head>
-<title>Hello Dear Enter a title, ================================= displayed at the top of the window.</title>
+<title>Hello Dear Enter a title, ===================== displayed at the top of the window.</title>
 </head>
 <!-- The information between the BODY and /BODY tags is displayed.-->
 <body>
-<h1>Enter the main heading for testing =====================================, usually the same as the title.</h1>
+<h1>Enter the main heading for testing ======================, usually the same as the title.</h1>
 <p>Be <b>bold</b> in stating your key points. Put them in a list: </p>
 <ul>
 <li>The first item in your list</li>
