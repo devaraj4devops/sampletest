@@ -11,7 +11,7 @@ not displayed. The information between the BODY and /BODY tags is displayed.-->
 <!-- The information between the BODY and /BODY tags is displayed.-->
 
 <body>
-<h2>Hello Dear Enter a title, ===================== displayed at the top of the window.</h2>
+<h2>Hello Dear Enter a title, ================== displayed at the top of the window.</h2>
 <h1>Enter in to the main heading for testing ==============, DEVARAJULU NAIDU.</h1>
 <p>Be <b>bold</b> in stating your key points. Put them in a list: </p>
 <ul>
