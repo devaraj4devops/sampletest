@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<h2><p style="color:RED;">  Enter the login details  </P></h2>
+<h2><p style="color:GREEN;">  Enter the login details  </P></h2>
 </head>
 <body>
 
